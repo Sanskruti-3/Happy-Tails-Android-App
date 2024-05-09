@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HappyTails!</string>
+    <string name="be">
+        "Be the person
+        your dog thinks
+        you are."</string>
+    <string name="about">Happy Tails! is an online available, searchable database of about
+        300+ animals who needs care. It is also a directory of
+        nearly 200 animals shelters across various states in India.</string>
+    <string name="know_about_us">KNOW ABOUT US</string>
+    <string name="our_mission">Our Mission</string>
+    <string name="company_history">Company History</string>
+    <string name="mission">Our mission is to strengthen the bond between animals and people. The connection of love, affection, and care will always be the first preference is our basic aim. To ensure the wellness of animals like dogs, cats. We are providing an interface between animal welfare/organizations and the people who want to adopt animals. </string>
+    <string name="history">Happy Tails! is an online available, searchable database of about 300+ animals who needs care. It is also a directory of nearly 200 animal shelters and adoption organizations across various states in India.</string>
+    <string name="contact"> GCOEA, Amravati, Maharshtra, India
+
+    </string>
+</resources>
